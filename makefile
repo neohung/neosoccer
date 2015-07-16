@@ -17,7 +17,8 @@ RCFLAGS=
 OBJECT= main.o \
 		neogdi.o \
 		worldtimer.o \
-		SoccerPitch.o 
+		SoccerPitch.o \
+		SoccerBall.o 
 		#SteeringBehaviors.o 
 
 TARGET=neo.exe
